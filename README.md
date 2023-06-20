@@ -1,2 +1,2 @@
 # PONG
-PONG for Dilo Academy
+PONG Games
